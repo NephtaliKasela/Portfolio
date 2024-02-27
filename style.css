@@ -123,6 +123,9 @@ span {
 .home-img img {
     width: 35vw;
     animation: floatImage 4s ease-in-out infinite;
+
+    /**/
+    border-radius: 10px;
 }
 
 @keyframes floatImage {
@@ -188,6 +191,9 @@ span {
 
 .about-img img {
     width: 35vw;
+
+    /**/
+    border-radius: 10px;
 }
 
 .heading {

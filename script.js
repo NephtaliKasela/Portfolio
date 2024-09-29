@@ -49,7 +49,7 @@ ScrollReveal().reveal('.home-content p, .about-content', { origin: 'bottom' });
 
 /*========== typed js ===========*/
 const typed = new Typed('.multiple-text', {
-    strings: ['Backend Developer', 'Student'],
+    strings: ['.Net Developer', 'Student'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 100,
